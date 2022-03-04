@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-ai-friends/static/css/main.da6731d7.css",
+    "main.js": "/my-ai-friends/static/js/main.65ebb909.js",
+    "static/js/787.32032a02.chunk.js": "/my-ai-friends/static/js/787.32032a02.chunk.js",
+    "index.html": "/my-ai-friends/index.html",
+    "main.da6731d7.css.map": "/my-ai-friends/static/css/main.da6731d7.css.map",
+    "main.65ebb909.js.map": "/my-ai-friends/static/js/main.65ebb909.js.map",
+    "787.32032a02.chunk.js.map": "/my-ai-friends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6731d7.css",
+    "static/js/main.65ebb909.js"
+  ]
+}
